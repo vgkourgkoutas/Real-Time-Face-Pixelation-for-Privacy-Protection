@@ -13,7 +13,7 @@ This project uses a pre-trained deep learning face detection model provided by O
 
 - Model: ResNet-10 SSD Face Detector
 - Framework: Caffe
-- Source: OpenCV official repository
+- Source: OpenCV official repository, https://github.com/opencv/opencv
 - Purpose: Face detection only (no face recognition)
 
 The model is used strictly for inference and was not trained by the author.
