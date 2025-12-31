@@ -7,6 +7,19 @@ with a focus on privacy-preserving computer vision applications.
 
 ---
 
+## Pre-trained Model Acknowledgement
+
+This project uses a pre-trained deep learning face detection model provided by OpenCV.
+
+- Model: ResNet-10 SSD Face Detector
+- Framework: Caffe
+- Source: OpenCV official repository
+- Purpose: Face detection only (no face recognition)
+
+The model is used strictly for inference and was not trained by the author.
+
+---
+
 ## 🔍 Project Overview
 
 Traditional face detection methods often fail when faces are rotated or partially occluded.
