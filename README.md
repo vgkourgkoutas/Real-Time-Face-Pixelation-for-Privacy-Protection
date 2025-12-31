@@ -55,13 +55,17 @@ face_pixelation_project/
 ```bash
 conda create -n face_pixelation_env 
 conda activate face_pixelation_env
+```
 
 ### 2. Install dependencies
+
 ```bash
 pip install opencv-python
+```
 
 ### 3. Run the application
 ```bash
 python face_pixelation_dnn.py
+```
 
 Press q to exit the program
