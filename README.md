@@ -40,11 +40,11 @@ while maintaining stable performance in live video streams.
 ## 📁 Project Structure
 
 face_pixelation_project/
-<br/>                -  face_pixelation_dnn.py
-                     -  deploy.prototxt
-                     -  res10_300x300_ssd_iter_140000.caffemodel
-                     -  requirements.txt
-                     -  README.md
+<br/>                   face_pixelation_dnn.py
+<br/>                   deploy.prototxt
+<br/>                   res10_300x300_ssd_iter_140000.caffemodel
+<br/>                   requirements.txt
+<br/>                   README.md
 
 
 ---
